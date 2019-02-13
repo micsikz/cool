@@ -1,0 +1,1 @@
+let micsik = "király!";
